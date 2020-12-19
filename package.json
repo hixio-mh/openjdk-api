@@ -20,7 +20,7 @@
     "test": "jest --coverage && npm run lint"
   },
   "dependencies": {
-    "@octokit/rest": "^16.33.1",
+    "@octokit/rest": "^16.43.2",
     "appmetrics-dash": "^5.2.0",
     "cors": "^2.8.5",
     "cron": "1.7.2",
