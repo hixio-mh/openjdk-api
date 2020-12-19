@@ -23,7 +23,7 @@
     "@octokit/rest": "^16.33.1",
     "appmetrics-dash": "^5.2.0",
     "cors": "^2.8.5",
-    "cron": "1.7.2",
+    "cron": "1.8.2",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
     "markdown-serve": "^0.8.0",
