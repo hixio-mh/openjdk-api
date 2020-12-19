@@ -29,7 +29,7 @@
     "markdown-serve": "^0.8.0",
     "pug": "^2.0.4",
     "q": "^1.5.1",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
