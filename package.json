@@ -30,7 +30,7 @@
     "pug": "^2.0.4",
     "q": "^1.5.1",
     "request": "^2.88.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.13.1"
   },
   "devDependencies": {
     "eslint": "^6.5.1",
